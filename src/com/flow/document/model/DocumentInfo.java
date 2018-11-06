@@ -1,6 +1,5 @@
 package com.flow.document.model;
 
-
 public class DocumentInfo {
 
     private final byte[] bytes;
