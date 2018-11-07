@@ -1,0 +1,15 @@
+#macos file
+.DS_Store
+
+#IDEs confiugurations
+.idea
+.idea/
+.eclipse/
+.settings/
+.classpath
+.project
+
+#Compilation difectory
+target/
+out/
+
